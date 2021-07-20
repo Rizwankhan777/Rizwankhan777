@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rizwankhan777
+- 👋 Hi, I’m @Rizwankhan
 - 👀 I’m interested in Programming, Data science,data analysis and Front end React Javascriprt work. 
 - 🌱 I’m currently learning advance in React and Data science and machine learning
 - 💞️ I’m looking to collaborate on React.js and data science work
