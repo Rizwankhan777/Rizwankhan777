@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rizwankhan. 
-- 💻 I’m currently Working on MERN Technology.
+- 💻 I’m currently working on React.js & Laravel.
 - 📧 Email rizwikhan.712@gmail.com 
 - 📞 Contact me 03408396866
 
